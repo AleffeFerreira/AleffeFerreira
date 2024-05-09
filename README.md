@@ -7,3 +7,5 @@ Ola
 -  CSS
 -<br>
 - JavaScript
+- <br>
+-next.js
